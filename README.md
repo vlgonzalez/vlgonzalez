@@ -3,9 +3,9 @@ Welcome to my Github👋</br>
 For more details about me , you can contact me in the links below.
 
 <div>
-  <a href = "https://vlgonzalez.github.io/cv/#principa)"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-   <a href = "mailto:vinicius.vlg@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gonzalez-758425b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://vlgonzalez.github.io/cv/#principa"target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+   <a href = "mailto:vinicius.vlg@hotmail.com"target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gonzalez-758425b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 <div style="display: inline_block"><br>
