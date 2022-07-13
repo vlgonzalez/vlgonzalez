@@ -1,6 +1,6 @@
 ### Hi, I'm Vinicius Gonzalez, Student of Data Science, HTML, CSS & JS
 Welcome to my Github👋</br>
-For more details about me , you can contact me in the links below.
+For more details about me, please contact me in the following links below.
 
 <div>
   <a href = "https://vlgonzalez.github.io/cv/#principa"target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
