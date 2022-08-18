@@ -1,4 +1,4 @@
-### Hi, I'm Vinicius Gonzalez, Student of Data Science, HTML, CSS & JS
+### Hi, I'm Vinicius Gonzalez, Student of Data Science, Java, MySQL & JS.
 Welcome to my Github👋</br>
 For more details about me, please contact me in the following links below.
 
