@@ -11,9 +11,9 @@ For more details about me, please contact me in the following links below.
   <a href="https://vlgonzalez.github.io/Dieta/" target="_blank"><img align="center" alt="Js" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
  <a href="https://vlgonzalez.github.io/cv/index.html#hoje" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a https://github.com/vlgonzalez/Desafio-ecommerceRefinado/blob/main/ecommerceRefinado.sql target="_blank"><img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></a>
-  <a href="https://github.com/vlgonzalez/desafio" target="_blank"><img align="center" alt="dotnet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-  <a https://github.com/vlgonzalez/desafio target="_blank"><img align="center" alt="Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
+  <a href="https://github.com/vlgonzalez/Desafio-ecommerceRefinado/blob/main/ecommerceRefinado.sql"><img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></a>
+  <a href="https://github.com/vlgonzalez/desafio" target="_blank"><img align="center" alt="dotnet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /></a>
+  <a href="https://github.com/vlgonzalez/desafio" target="_blank"><img align="center" alt="Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
 </div>
 
 <!--
