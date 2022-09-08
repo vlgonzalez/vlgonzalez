@@ -1,4 +1,4 @@
-### Hi, I'm Vinicius Gonzalez, Upgrading myself everyday, Data Science, C#, MySQL & JS.
+### Hi, I'm Vinicius Gonzalez, Upgrading myself :rocket:, Data Science, C#, MySQL & JS.
 Welcome to my Github👋</br>
 For more details about me, please contact me in the following links below.
 
